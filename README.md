@@ -1,6 +1,6 @@
 # 106年度中央政府總預算
 
-[網頁連結](https://ohya1004.github.io/aged-society-visualization/)
+[網頁連結](https://ohya1004.github.io/gov_budget)
 
 ## 呈現目的
 
@@ -31,6 +31,7 @@
 
 而右方則是圖例，每一種顏色都代表著一項預算。
 
-### 資料來源
+
+## 資料來源
 
 [行政院主計處-106年度中央政府總預算](http://www.dgbas.gov.tw/ct.asp?xItem=40176&CtNode=6306&mp=1)
